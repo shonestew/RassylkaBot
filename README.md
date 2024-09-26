@@ -1,2 +1,2 @@
 # RassylkaBot
-Bot for sending newsletters.
+Bot for sending newsletters with using Telegraf framework
